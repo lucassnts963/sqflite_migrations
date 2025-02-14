@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:sqflite/sqflite.dart';
-import 'package:sqflite_migrations/sqflite_migrations.dart';
+import 'package:sqflite_migrations_pro/sqflite_migrations_pro.dart';
 
 // v1_create_table_produtos.dart
 class V1CreateTableProdutos extends Migration {
