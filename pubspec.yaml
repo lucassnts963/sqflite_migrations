@@ -1,4 +1,4 @@
-name: sqflite_migrations
+name: sqflite_migrations_pro
 description: "Gerencie migrations no Sqflite de forma fácil e escalável no Flutter."
 version: 0.0.1
 homepage:

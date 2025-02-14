@@ -1,5 +1,5 @@
 import 'package:sqflite/sqflite.dart';
-import 'package:sqflite_migrations/src/models/migration.dart';
+import 'package:sqflite_migrations_pro/src/models/migration.dart';
 
 class DatabaseInitializer {
   final String dbName;
